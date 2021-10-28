@@ -2,6 +2,9 @@
 
 Welcome to my projects overview.
 
+You will find short project descriptions first.
+At the end of this file you find the technical requirements.
+
 ---
 
 # __Project 1: EDA Project__
@@ -59,8 +62,10 @@ __"Location, location, location!"__
 It is the RE agent's mantra which means that homes can vary widely in value due to their locations. Location is essential when it comes to the value of a property.
 
 ---
+---
 
 ## __Technical preparation__
+
 
 ### __Requirements__
 
@@ -76,3 +81,4 @@ source .venv/bin/activate
 pip install --upgrade pip
 pip install -r requirements.txt
 
+````
