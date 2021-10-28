@@ -1,8 +1,6 @@
 # Projects
 
-Welcome to my projects overview.
-
-You will find short project descriptions first.
+Welcome to my projects overview with short descriptions of every project.
 At the end of this file you find the technical requirements.
 
 ---
