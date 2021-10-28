@@ -10,11 +10,13 @@ Welcome to my projects overview.
 
 This notebook is about my first EDA project during the Data Science bootcamp at neue fische. 
 
-[Notebook](Project_1/notebooks): Jupyter Notebook and Markdown file
+[Notebook](Project_1/notebooks): Jupyter Notebook
 
-[Images](Project_1/images): Created images, plots and maps.
+[Images](Project_1/images): Images, plots and maps.
 
 [Dataset](Project_1/data): I used the King County House Sales dataset. Here, the focus is on EDA though it was required to demonstrate an entire Data Science Lifecycle using linear regression. The task will be to perform an extensive EDA and to train a explanatory linear regression model. The task is not only to explain the data but also to evaluate how well the model is fitting the data. 
+
+[Stakeholder Presentation](https://github.com/IronMan2483/Projects/blob/main/Project_1/Stakeholder_JP.pdf): PDF file
 
 ---
 
