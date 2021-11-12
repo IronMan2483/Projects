@@ -64,8 +64,8 @@ Each series of weather and air quality readings will be associated with a unique
 
 ## __Our files:__
 
-* The [final notebook](hhttps://github.com/IronMan2483/Projects/blob/main/Project_2/notebook/Air_quality_Uganda_final.ipynb) with EDA, plots, predictions and error analysis.
-* The [slides](https://github.com/Project%202_%20ML-Uganda_Team%20RPK.pdf) for the selected stakeholder.
+* The [final notebook](https://github.com/IronMan2483/Projects/tree/main/Project_2/notebook) with EDA, plots, predictions and error analysis.
+* The [slides](https://github.com/IronMan2483/Projects/blob/main/Project_2/Project%202_%20ML-Uganda_Team%20RPK.pdf) for the selected stakeholder.
 
 ---
 ## __Requirements:__
@@ -79,16 +79,11 @@ Each series of weather and air quality readings will be associated with a unique
 
 Use the requirements file in this repo to create a new environment.
 
-```BASH
-make setup 
-
-#or 
-
+```
 pyenv local 3.9.4
 python -m venv .venv
 source .venv/bin/activate
 pip install --upgrade pip
-pip install -r requirements.txt
 
 brew update
 brew install node
@@ -97,7 +92,6 @@ pip install jupyterlab "ipywidgets>=7.5"
 jupyter labextension install jupyterlab-plotly@4.14.3
 jupyter labextension install @jupyter-widgets/jupyterlab-manager plotlywidget@4.14.3
 ````
-
 
 ---
 
