@@ -64,8 +64,8 @@ Each series of weather and air quality readings will be associated with a unique
 
 ## __Our files:__
 
-* The [final notebook](https://github.com/r-weil/project2_air_quality/blob/main/notebooks/Air_quality_Uganda_final.ipynb) with EDA, plots, predictions and error analysis.
-* The [slides](https://github.com/r-weil/project2_air_quality/blob/main/Project%202_%20ML-Uganda_Team%20RPK.pdf) for the selected stakeholder.
+* The [final notebook](hhttps://github.com/IronMan2483/Projects/blob/main/Project_2/notebook/Air_quality_Uganda_final.ipynb) with EDA, plots, predictions and error analysis.
+* The [slides](https://github.com/Project%202_%20ML-Uganda_Team%20RPK.pdf) for the selected stakeholder.
 
 ---
 ## __Requirements:__
