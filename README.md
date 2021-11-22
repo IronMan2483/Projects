@@ -32,7 +32,7 @@ This notebook is about my second project during the Data Science bootcamp at neu
 
 [Images](https://github.com/IronMan2483/Projects/tree/main/Project_2/images): Images, plots and maps.
 
-[Dataset]: The [dataset](https://zindi.africa/competitions/airqo-ugandan-air-quality-forecast-challenge/data) is from a challenge which was created on Zindi, the data science competition platform with the mission of building the data science ecosystem in Africa. The objective of this challenge is to accurately forecast air quality (as measured by PM2.5 µ/m3) for each hour of the coming 25 hours across five locations in Kampala Uganda. Forecasts will be based on the past 5 days of hourly air quality measurements at each site.
+[Dataset](https://zindi.africa/competitions/airqo-ugandan-air-quality-forecast-challenge/data): The dataset is from a challenge which was created on Zindi, the data science competition platform with the mission of building the data science ecosystem in Africa. The objective of this challenge is to accurately forecast air quality (as measured by PM2.5 µ/m3) for each hour of the coming 25 hours across five locations in Kampala Uganda. Forecasts will be based on the past 5 days of hourly air quality measurements at each site.
 Zindi provided .csv files with train and test data but also meta data with location details. The meta data was excluded in the project.
 
 [Stakeholder Presentation](https://github.com/IronMan2483/Projects/blob/main/Project_2/Project%202_%20ML-Uganda_Team%20RPK.pdf): PDF file
