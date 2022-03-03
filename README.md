@@ -10,6 +10,7 @@ At the end of this file you find the technical requirements.
 ## __King County Real Estate__
 
 This notebook is about my first EDA project during the Data Science bootcamp at neue fische. 
+The task of the project was to recommend suitable properties for a pre-selected client. The data set included information on the number of rooms and bathrooms, year of construction, size of the house and property, and budget. Each of the bootcamp participants could choose one customer before starting with the EDA, who was already presented with his/her budget and ideas a.o. regarding size, number of bathrooms and rooms. 
 
 [Notebook](Project_1/notebooks): Jupyter Notebook
 
@@ -27,6 +28,11 @@ This notebook is about my first EDA project during the Data Science bootcamp at 
 ## __AirQo Ugandan Air Quality Forecast Challenge__
 
 This notebook is about my second project during the Data Science bootcamp at neue fische. 
+
+The task of the project was the prediction of the air quality in the Ugandan capital Kampala - e.g. relevant for local TV stations - and thus the early warning of harmful fine dust concentrations. The data set included weather and wind data as well as measurement data from the external provider AirQo.
+The project included EDA and data visualization, a "small time series", the selection of different machine learning models and the presentation of results at the end of the project.
+
+In contrast to the 1st project this was a group work with partly also pair programming and error analysis, as it also belongs to the normal working day of a Data Analyst and Data Scientist. The bootcamp participants could choose from given projects and get together in groups. 
 
 [Notebook](https://github.com/IronMan2483/Projects/blob/main/Project_2/notebook/Air_quality_Uganda_final.ipynb): Jupyter Notebook
 
